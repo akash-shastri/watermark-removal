@@ -19,3 +19,7 @@ For more detailed tutorial, follow fastai's No-GAN approach or fastai lesson 7.
 This is a modified version of the project Jeremy Howard does in lesson 7 of fastai's lectures.
 
 Code credits: Fastai lesson 7
+
+PS: My notebooks are a bit messy, for any clarrification please ask on the issues tab. 
+
+PPS: following fastai's lesson 7 will clarify my procedure quite a bit.
